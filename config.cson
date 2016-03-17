@@ -1,0 +1,17 @@
+"*":
+  "atom-beautify":
+    _analyticsUserId: "064f007f-986f-46ab-89c4-d6a2468522a2"
+  core:
+    openEmptyEditorOnStart: false
+    themes: [
+      "one-light-ui"
+      "one-light-syntax"
+    ]
+  editor:
+    fontFamily: "Meiryo UI"
+    invisibles: {}
+  "exception-reporting":
+    userId: "98195ee3-0162-7e37-4603-0a03328d4957"
+  react: {}
+  welcome:
+    showOnStartup: false
