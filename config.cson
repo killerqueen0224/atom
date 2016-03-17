@@ -1,6 +1,8 @@
 "*":
   "atom-beautify":
     _analyticsUserId: "064f007f-986f-46ab-89c4-d6a2468522a2"
+    html_brace_style: "expand"
+    java_configPath: "C:\\Users\\la_kitamura\\.atom\\packages\\atom-beautify\\examples\\nested-jsbeautifyrc\\uncrustify.cfg"
   core:
     openEmptyEditorOnStart: false
     themes: [
@@ -8,10 +10,13 @@
       "one-light-syntax"
     ]
   editor:
-    fontFamily: "Meiryo UI"
+    fontFamily: "Myrica M"
     invisibles: {}
+    showIndentGuide: true
+    showInvisibles: true
   "exception-reporting":
     userId: "98195ee3-0162-7e37-4603-0a03328d4957"
   react: {}
+  "symbols-tree-view": {}
   welcome:
     showOnStartup: false
